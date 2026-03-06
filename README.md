@@ -69,7 +69,7 @@ Travail sur le développement de prototypes, les essayages et les ajustements te
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="#">Télécharger mon CV</a></td>
+      <td><a href="[#](https://drive.google.com/file/d/1_le2Rd8OMFJpCYCIxtR-vUNZJayX3Mf4/view?usp=sharing)">Télécharger mon CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
