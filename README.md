@@ -1,5 +1,5 @@
 <!--Section 1: Introduce your self-->
-## ABOUT ME
+## A propos de moi
 
 Bonjour ! Je suis BANKOLEY Adegniyi Marcelline 🤓, créatrice de mode passionnée par l’exploration des formes, des volumes et des matières. À travers une démarche de recherche-création, je conçois le vêtement comme un espace d’expression artistique où se rencontrent créativité et savoir-faire technique.
 
@@ -7,7 +7,7 @@ Formée en couture et forte d’une expérience dans la réalisation de vêtemen
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## Ce que je fais
 
 *En tant que créatrice de mode et assistante designer, je participe au développement de collections et à la création de pièces alliant conception artistique et maîtrise technique.*
 
@@ -22,7 +22,7 @@ Je réalise des vêtements et des finitions avec précision en utilisant des tec
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## Mes projets
 
 *Aperçu de quelques projets sur lesquels j’ai travaillé.*
 
