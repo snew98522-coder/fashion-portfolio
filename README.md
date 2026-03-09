@@ -27,7 +27,7 @@ Je réalise des vêtements et des finitions avec précision en utilisant des tec
 *Aperçu de quelques projets sur lesquels j’ai travaillé.*
 
 **Recherche et conception de collection.**  
-![image](design-11.jpg.jpg)
+![image](design-45.jpg.jpg)
 
 Projet créatif basé sur la recherche de tendances, la création de moodboards et la réalisation de croquis afin de développer une direction artistique cohérente pour une collection de mode.
 
