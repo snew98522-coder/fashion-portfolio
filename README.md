@@ -74,6 +74,22 @@ Projet axé sur la conception et l’assemblage de vêtements, incluant la séle
 
 [Read More](#)
 
+**Création et réalisation de vêtements.**
+
+![image](design-31.jpg.jpg)
+
+Projet axé sur la conception et l’assemblage de vêtements, incluant la sélection des tissus, la couture, les ajustements et les finitions pour garantir précision et qualité.
+
+[Read More](#)
+
+**Création et réalisation de vêtements.**
+
+![image]()
+
+Projet axé sur la conception et l’assemblage de vêtements, incluant la sélection des tissus, la couture, les ajustements et les finitions pour garantir précision et qualité.
+
+[Read More](#)
+
 Travail sur le développement de prototypes, les essayages et les ajustements techniques afin d’assurer l’équilibre entre esthétique, confort et qualité de fabrication.
 
 <a href="#">Télécharger le projet complet (PDF)</a>
