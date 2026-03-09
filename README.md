@@ -45,6 +45,10 @@ Projet axé sur la conception et l’assemblage de vêtements, incluant la séle
 
 ![image](design-2.jpg.jpg)
 
+Projet créatif basé sur la recherche de tendances, la création de moodboards et la réalisation de croquis afin de développer une direction artistique cohérente pour une collection de mode.
+
+[Read More](#)
+
 **Création et réalisation de vêtements.**
 
 ![image](design-11.jpg.jpg)
