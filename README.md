@@ -35,7 +35,7 @@ Projet créatif basé sur la recherche de tendances, la création de moodboards 
 
 **Création et réalisation de vêtements.**
 
-![image](2 marcelline couture project.jpg)
+![image](design-13.jpg.jpg)
 
 Projet axé sur la conception et l’assemblage de vêtements, incluant la sélection des tissus, la couture, les ajustements et les finitions pour garantir précision et qualité.
 
