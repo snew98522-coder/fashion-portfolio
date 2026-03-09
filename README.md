@@ -43,7 +43,15 @@ Projet axé sur la conception et l’assemblage de vêtements, incluant la séle
 
 **Prototype et développement de pièces.**
 
-![image](3 marcelline fashion prototype.jpg)
+![image](design-2.jpg.jpg)
+
+**Création et réalisation de vêtements.**
+
+![image]()
+
+Projet axé sur la conception et l’assemblage de vêtements, incluant la sélection des tissus, la couture, les ajustements et les finitions pour garantir précision et qualité.
+
+[Read More](#)
 
 Travail sur le développement de prototypes, les essayages et les ajustements techniques afin d’assurer l’équilibre entre esthétique, confort et qualité de fabrication.
 
